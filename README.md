@@ -291,5 +291,9 @@ Pair programming and team work
 Building a test suite to check our own code
 
 Authors
-Odobulu Ogechukwu B ogeben7@gmail.com
-Esther ThankGod tripcy18@gmail.com
+
+
+Odobulu Ogechukwu B 
+ogeben7@gmail.com
+Esther ThankGod
+ tripcy18@gmail.com
