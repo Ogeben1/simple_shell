@@ -1,11 +1,15 @@
 #Alx simple_shell Collaboration task
+
+
 This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. The name of our shell is hsh.
 
 Project was done using
-C language
-Shell
-Betty linter
+C language,
+Shell, 
+Betty linter, 
 Description
+
+
 hsh is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
 How hsh works
 Prints a prompt and waits for a command from the user
